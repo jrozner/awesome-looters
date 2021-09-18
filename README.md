@@ -20,4 +20,5 @@ A collection of tools for looting environments once you've compromised credentia
 
 * https://github.com/xpcmdshell/slarf
 * https://github.com/BojackThePillager/Slackhound
+* https://github.com/emtunc/SlackPirate
 
